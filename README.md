@@ -1,1 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
+# 👋 Hi, I'm Weronika
+
+## 🚀 Tech stack
+[![My Skills](https://skillicons.dev/icons?i=figma,webstorm&theme=dark)](https://skillicons.dev)
+
